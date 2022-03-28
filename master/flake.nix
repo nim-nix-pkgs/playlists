@@ -11,7 +11,6 @@
   inputs.src-playlists-master.ref   = "refs/heads/master";
   inputs.src-playlists-master.owner = "achesak";
   inputs.src-playlists-master.repo  = "nim-playlists";
-  inputs.src-playlists-master.dir   = "";
   inputs.src-playlists-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
