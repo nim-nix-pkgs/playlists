@@ -45,11 +45,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656301167,
-        "narHash": "sha256-l2e0IqThIyJLzs/Sob6bJbWOQUdgp5RNFKw+/prZGmk=",
+        "lastModified": 1656747020,
+        "narHash": "sha256-uYOLccQg7bTUZaehvPf3wH+Sl025Vgc5db4AS7E1nb8=",
         "owner": "nim-nix-pkgs",
         "repo": "playlists",
-        "rev": "dd149bf735fa764c298b67c59b1234f0bd60f244",
+        "rev": "e8160b1ef7aa8859b2e7155076446c0563287500",
         "type": "github"
       },
       "original": {
