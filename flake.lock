@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
@@ -47,11 +47,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254745,
-        "narHash": "sha256-aNH3vuZXQ08/WH6te7DKxswPHQr2Qsnmwa8jGzooR7Y=",
+        "lastModified": 1667322585,
+        "narHash": "sha256-k6pnyfroQI5uC+sGHgrxAoZh8HWgNJRfsXR0MF83Ekc=",
         "owner": "nim-nix-pkgs",
         "repo": "playlists",
-        "rev": "442f88824f64a705d2912889158cb9e22aa00a55",
+        "rev": "12a273ed0c6a6f2c6fb9263b785d1e53ab8e0e84",
         "type": "github"
       },
       "original": {
